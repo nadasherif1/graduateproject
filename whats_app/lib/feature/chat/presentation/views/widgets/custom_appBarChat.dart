@@ -27,7 +27,7 @@ class CustomAppbarChat extends StatelessWidget {
               )),
           CustomIconButton(
             icon: FontAwesomeIcons.phoneFlip,
-            color: kPrimarycolor,
+            color: const Color.fromARGB(255, 40, 18, 91),
             size: 45,
             iconSize: 18,
             onPressed: () {},
